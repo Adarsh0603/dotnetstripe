@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/+qRFtpWgUY7sluN7uVtWTqqQj9jh4Yg3qOV7fkYsNY=",
+  "Source": "dotnetstripe",
+  "BasePath": "_content/dotnetstripe",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
